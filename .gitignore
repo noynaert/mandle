@@ -1,5 +1,12 @@
+# temp files
+tmp/*
+*.tmp
+tmp/**
+tmp.*
+
 # Compiled class file
 *.class
+
 
 # Log file
 *.log
